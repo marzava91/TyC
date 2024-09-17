@@ -7,7 +7,7 @@ export default function Terminos() {
       <h3>Actualizado el 16/09/2024</h3>
 
       <h2>1. Introducción</h2>
-      <p>Los presentes Términos y Condiciones regulan el uso de la aplicación móvil “Miji” operada por Miji Markets SAC con RUC 20611286377 (en adelante “MIJI MARKETS”). Al acceder, registrarse y/o utilizar la aplicación, el usuario (en adelante "Usuario") acepta y se compromete a cumplir los términos establecidos en este documento que son de carácter obligatorio y vinculante.</p>
+      <p>Los presentes Términos y Condiciones regulan el uso de la aplicación móvil Miji operada por Miji Markets SAC con RUC 20611286377 (en adelante “MIJI MARKETS”). Al acceder, registrarse y/o utilizar la aplicación, el usuario (en adelante Usuario) acepta y se compromete a cumplir los términos establecidos en este documento que son de carácter obligatorio y vinculante.</p>
       <p>Todas las transacciones, visitas y contratos que el Usuario realice a través de la plataforma estarán sujetos a estos Términos y Condiciones, así como a la legislación vigente en la República del Perú. Cualquier acción ejecutada por el Usuario en la plataforma estará igualmente regulada por estos términos.</p>
       <p>Estos Términos y Condiciones forman parte integral de todos los actos y contratos que se celebren a través de los sistemas de oferta y comercialización comprendidos en la aplicación móvil entre los Usuarios y MIJI MARKETS.</p>
       <p>Para cualquier duda o consulta relacionada con estos Términos y Condiciones, el Usuario puede ponerse en contacto con nuestro equipo de Atención al Cliente a través del número de WhatsApp +51 906 401 395 o del correo electrónico miji.markets@gmail.com.</p>
@@ -75,7 +75,7 @@ export default function Terminos() {
         <li>Ingresar o verificar la dirección de entrega y seleccionar el método de pago entre las opciones disponibles: pago en efectivo al recibir el pedido o pago mediante billeteras electrónicas como Yape o Plin, o cualquier otro método autorizado en la plataforma.</li>
         <li>Revisar las condiciones de entrega, incluyendo los costos de envío.</li>
       </ol>
-      <p>Al hacer clic en el botón de "Generar Pedido", el Usuario acepta todos los términos de la transacción, incluyendo el precio final, los costos de envío, el tiempo estimado de entrega y cualquier otro cargo aplicable. Este paso es vinculante. Sin embargo, si uno o más productos seleccionados no están disponibles, MIJI MARKETS se comunicará con el Usuario, quien podrá:</p>
+      <p>Al hacer clic en el botón de Generar Pedido, el Usuario acepta todos los términos de la transacción, incluyendo el precio final, los costos de envío, el tiempo estimado de entrega y cualquier otro cargo aplicable. Este paso es vinculante. Sin embargo, si uno o más productos seleccionados no están disponibles, MIJI MARKETS se comunicará con el Usuario, quien podrá:</p>
       <ul>
         <li>Cancelar el pedido completo.</li>
         <li>Sustituir los productos no disponibles por otros.</li>
@@ -92,7 +92,7 @@ export default function Terminos() {
       <p>El pago se realizará al momento de la entrega, permitiendo al Usuario verificar los productos antes de proceder con el pago.</p>
 
       <h3>5.4. Confirmación y Estado del Pedido</h3>
-      <p>Después de confirmar el pedido, el Usuario podrá hacer un seguimiento del estado del mismo dentro de la aplicación móvil. Para ello, deberá ingresar a la sección de "Perfil" y acceder a "Mis Pedidos", donde se le indicará el estatus de su solicitud.</p>
+      <p>Después de confirmar el pedido, el Usuario podrá hacer un seguimiento del estado del mismo dentro de la aplicación móvil. Para ello, deberá ingresar a la sección de Perfil y acceder a Mis Pedidos, donde se le indicará el estatus de su solicitud.</p>
 
       <h3>5.5. Modificaciones o Cancelaciones del Pedido</h3>
       <p>El Usuario podrá modificar o cancelar su pedido siempre que este no haya sido enviado. Para gestionar cualquier modificación o cancelación, el Usuario deberá contactar directamente con el servicio de atención al cliente de MIJI MARKETS. En caso de que el pedido ya haya sido enviado, no se permitirán cambios ni cancelaciones.</p>
@@ -133,7 +133,7 @@ export default function Terminos() {
       <h3>7.1. Cancelación de Pedidos por Parte del Usuario</h3>
       <p>El Usuario puede cancelar un pedido, siempre y cuando se cumplan las siguientes condiciones:</p>
       <ul>
-        <li>La cancelación debe realizarse antes de que el pedido haya sido enviado. Una vez que el pedido está en estado de "Enviado", el Usuario no podrá cancelarlo sin incurrir en un cargo por el valor total del pedido.</li>
+        <li>La cancelación debe realizarse antes de que el pedido haya sido enviado. Una vez que el pedido está en estado de Enviado, el Usuario no podrá cancelarlo sin incurrir en un cargo por el valor total del pedido.</li>
         <li>Para cancelar un pedido, el Usuario deberá comunicarse directamente con el servicio de atención al cliente de MIJI MARKETS.</li>
       </ul>
       <p>Si el Usuario cancela de manera unilateral y sin una justificación razonable, MIJI MARKETS se reserva el derecho de suspender temporalmente la cuenta del Usuario, de acuerdo con lo que considere oportuno.</p>
@@ -192,7 +192,7 @@ export default function Terminos() {
       <h2>9. Derechos de Propiedad Intelectual</h2>
 
       <h3>9.1. Propiedad del Contenido de la Plataforma</h3>
-      <p>Todos los derechos de propiedad intelectual e industrial sobre los contenidos de la plataforma de MIJI MARKETS, incluyendo, pero no limitándose a, textos, imágenes, gráficos, logotipos, íconos, sonidos, software, bases de datos, diseños, interfaces, nombres comerciales y marcas registradas (en adelante, el "Contenido"), son de titularidad exclusiva de MIJI MARKETS o de sus licenciantes. Este Contenido está protegido por las leyes de propiedad intelectual y tratados internacionales aplicables.</p>
+      <p>Todos los derechos de propiedad intelectual e industrial sobre los contenidos de la plataforma de MIJI MARKETS, incluyendo, pero no limitándose a, textos, imágenes, gráficos, logotipos, íconos, sonidos, software, bases de datos, diseños, interfaces, nombres comerciales y marcas registradas (en adelante, el Contenido), son de titularidad exclusiva de MIJI MARKETS o de sus licenciantes. Este Contenido está protegido por las leyes de propiedad intelectual y tratados internacionales aplicables.</p>
       <p>El Usuario no adquiere ningún derecho de propiedad sobre el Contenido por el mero uso de la plataforma. Queda estrictamente prohibido modificar, copiar, distribuir, reutilizar, explotar, reproducir, transmitir, publicar o utilizar de cualquier otra forma el Contenido sin la autorización expresa y por escrito de MIJI MARKETS.</p>
 
       <h3>9.2. Uso Autorizado del Contenido</h3>
