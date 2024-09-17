@@ -4,6 +4,7 @@ export default function Terminos() {
   return (
     <div style={{ padding: '2rem' }}>
       <h1>Términos y Condiciones de Miji Markets SAC</h1>
+      <h3>Actualizado el 16/09/2024</h3>
 
       <h2>1. Introducción</h2>
       <p>Los presentes Términos y Condiciones regulan el uso de la aplicación móvil “Miji” operada por Miji Markets SAC con RUC 20611286377 (en adelante “MIJI MARKETS”). Al acceder, registrarse y/o utilizar la aplicación, el usuario (en adelante "Usuario") acepta y se compromete a cumplir los términos establecidos en este documento que son de carácter obligatorio y vinculante.</p>

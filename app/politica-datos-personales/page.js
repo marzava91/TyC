@@ -4,6 +4,7 @@ export default function PoliticaDatos() {
   return (
     <div style={{ padding: '2rem' }}>
       <h1>Política de Tratamiento de Datos de Miji Markets SAC</h1>
+      <h3>Actualizado el 16/09/2024</h3>
 
       <h2>1. Tratamiento de Datos Personales</h2>
       <p>
