@@ -18,7 +18,7 @@ export default function EliminarCuenta() {
             Envía un correo electrónico a <a href="mailto:miji.markets@gmail.com" className="text-blue-500 hover:underline">miji.markets@gmail.com</a> desde la dirección de correo asociada a tu cuenta.
           </li>
           <li className="mb-2">
-            En el asunto del correo, escribe: <strong>"Solicitud de eliminación de cuenta"</strong>.
+            En el asunto del correo, escribe: <strong>&quot;Solicitud de eliminación de cuenta&quot;</strong>.
           </li>
           <li className="mb-2">
             En el cuerpo del mensaje, incluye la siguiente información:
