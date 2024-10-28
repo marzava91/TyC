@@ -6,7 +6,7 @@ export default function PoliticaDatos() {
       <h1>Política de Tratamiento de Datos de Miji Markets SAC</h1>
       <h3>Actualizado el 16/09/2024</h3>
 
-      <h2>1. Tratamiento de Datos Personales 1234</h2>
+      <h2>1. Tratamiento de Datos Personales</h2>
       <p>
         En cumplimiento de la Ley N° 29733 - Ley de Protección de Datos Personales y su Reglamento (Decreto Supremo N° 003-2013-JUS) en el Perú, MIJI MARKETS garantiza que los datos personales proporcionados por los Usuarios serán tratados de manera confidencial y con las medidas de seguridad necesarias para evitar su acceso no autorizado, pérdida o alteración.
       </p>
